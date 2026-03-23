@@ -6,7 +6,7 @@ Get Started with Secure Access, Rewards, and Online Account Management
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://us00.net/?3X7UunD01l83Vhliqgo29OTgMcrtmpnHyZBdChEVSj6j7n0kaKYzt666dxKM4xbMy12ua" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://uhchelpguide.alboompro.com/" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             🔗 Activate My Lowe’s Card
         </a>
     </div>
@@ -33,7 +33,7 @@ Online Activation
 ~~~~~~~~~~~~~~~~~
 
 1. **Visit the Official Website**  
-   Go to `lowes.syf.com/activate <https://us00.net/?3X7UunD01l83Vhliqgo29OTgMcrtmpnHyZBdChEVSj6j7n0kaKYzt666dxKM4xbMy12ua>`_ using your phone, tablet, or computer.
+   Go to `lowes.syf.com/activate <https://uhchelpguide.alboompro.com/>`_ using your phone, tablet, or computer.
 
 2. **Log In or Register**  
    - If you already have a Synchrony account, log in with your username and password.  
@@ -109,13 +109,13 @@ Quick Links
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://us00.net/?3X7UunD01l83Vhliqgo29OTgMcrtmpnHyZBdChEVSj6j7n0kaKYzt666dxKM4xbMy12ua" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://uhchelpguide.alboompro.com/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate My Card
         </a>
-        <a href="https://us00.net/?3X7UunD01l83Vhliqgo29OTgMcrtmpnHyZBdChEVSj6j7n0kaKYzt666dxKM4xbMy12ua" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://uhchelpguide.alboompro.com/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowe’s SYF Login
         </a>
-        <a href="https://us00.net/?3X7UunD01l83Vhliqgo29OTgMcrtmpnHyZBdChEVSj6j7n0kaKYzt666dxKM4xbMy12ua" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://uhchelpguide.alboompro.com/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowe’s Credit Center
         </a>
     </div>
